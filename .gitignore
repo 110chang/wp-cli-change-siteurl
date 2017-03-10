@@ -1,0 +1,14 @@
+*~
+*.bak
+*.org
+Thumbs.db
+desktop.ini
+.DS_Store
+
+/.env
+/wp/*
+!/wp/wp-content
+/wp/wp-content/*
+!/wp/wp-content/themes
+/wp/wp-content/themes/*
+!/wp/wp-content/themes/your-theme
